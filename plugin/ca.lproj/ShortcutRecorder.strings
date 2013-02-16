@@ -1,0 +1,13 @@
+"Space" = "Espai";
+"Use old shortcut" = "Utilitzar funció ràpida anterior";
+"Type shortcut" = "escrigui la drecera";
+"Click to record shortcut" = "Clic per definir funció ràpida";
+"Pad %@" = "Omplir %@";
+"The key combination %@ can't be used!" = "La combinació de tecles %@ no es pot utilitzar!";
+"The key combination \"%@\" can't be used because %@." = "La combinació de tecles \"%@\" no es pot utilitzar perquè %@.";
+"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "La combinació de tecles \"%@\" no es pot utilitzar perquè ja s'està utilitzant com una drecera de teclat del sistema. (Si desitja utilitzar aquesta combinació de tecles, es pot canviar al panell Teclat a les Preferències del Sistema.)";
+"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "La combinación de teclas \"%@\" no se puede usar porque ya se está usando por el elemento de menú \"%@\".";
+"Command + " = "Comanda + ";
+"Option + " = "Opció + ";
+"Shift + " = "Majús + ";
+"Control + " = "Control + ";
