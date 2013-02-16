@@ -1,0 +1,94 @@
+/* TotalFinder Status Menu Item */
+"Check for Updates" = "Buscar actualitzacions";
+"Uninstall TotalFinder" = "Desinstal·lar TotalFinder";
+"Restart Finder" = "Reiniciar el Finder";
+
+/* Reset to Defaults Alert Box */
+"Reset" = "Restaurar";
+"Cancel" = "Cancel·lar";
+"Do you really want reset to defaults?" = "Desitja restaurar la configuració per defecte?"; /* 'Defaults' translates to 'valores por omisión' in Mac OS X */
+"This will restore initial TotalFinder settings." = "Aquesta operació restaurarà la configuració original de TotalFinder.";
+
+/* Unistall Alert Box */
+"Uninstall" = "Desinstal·lar";
+"Really want to uninstall TotalFinder?" = "Està segur que desitja desinstal·lar TotalFinder?";
+"This will launch an uninstall script which will remove TotalFinder from this computer and restore your original Finder behavior." = "Aquesta operació eliminarà TotalFinder d'aquest ordinador i restaurarà el comportament original del Finder.";
+
+/* MainMenu items */
+"TotalFinder" = "TotalFinder";
+"TotalFinder Preferences…" = "Preferències de TotalFinder…";
+"Visit Homepage…" = "Visitar la pàgina principal...";
+
+/* misc. */
+"Screen" = "Pantalla";
+
+/* registration */
+"Licensed to %@" = "Llicenciat per %@";
+"Change License" = "Canviar llicència";
+"Unregistered version in trial mode" = "Versió no registrada en mode de prova";
+"Register" = "Registrar";
+
+/* navigation bar */
+"Visor" = "Visor";
+"Tweaks" = "Ajustaments";
+"About" = "En quant a";
+
+/* visor page */
+"Visor Feature" = "Activar Visor";
+"a system-wide window sliding from the bottom on a hot-key" = "finestra global emergent per sota amb una drecera de teclat";
+
+"Activation:" = "Activació:";
+
+"Control:" = "Control:";
+"Hide on ESC" = "ESC para amagar";
+"Pin Visor" = "Fixar Visor";
+
+"Animation:" = "Animació:";
+"Fade Window" = "esvair finestra";
+"Slide Window" = "lliscar finestra";
+
+"Screen:" = "Pantalla:";
+"Show on all Spaces" = "Mostrar en tots els Spaces";
+"Show on top of the Dock" = "Mostrar sobre el Dock";
+"Free Form Window" = "Finestra redimensionable";
+
+/* tweaks page */
+"Reset TotalFinder to defaults" = "Restaurar valors per defecte";
+
+"File Browser:" = "Navegador de fitxers";
+"Show System Files" = "Veure fitxers del sistema";
+"Folders on Top" = "Carpetes a la part superior";
+"Always Maximize" = "Maximitzar completament";
+"Toggle Dual Mode" = "Desplegar mode dual";
+
+"Menu and Dock:" = "Menú i Dock:";
+"Hide icon in Menu Bar" = "Amagar icona de la barra de menús";
+"Keep original Dock icon" = "Utilitzar icona original de Finder al Dock";
+
+"Experimental:" = "Experimental:";
+"Freelance Windows" = "No agrupar finestres";
+"Use narrow Tabs Bar" = "Barra de pestanyes estreta";
+"Show CutPaste buttons in Context Menus" = "Retallar i enganyar des del menú contextual";
+"Allow path copying from Context Menus" = "Copiar rutes des del menú contextual";
+
+/* about page */
+"Check Now" = "Buscar ara";
+"Automatically check the website for updates" = "Buscar actualitzacions automàticament.";
+"Include pre-releases" = "Inclure versions de prova";
+"Participate in TotalFinder testing" = "Participa en les proves de Totalfinder";
+
+/* registration */
+"TotalFinder Registration" = "Registre de TotalFinder";
+"Registration" = "Registre";
+"Please enter your license details from the email we have sent you:" = "Introdueixi les dades de la llicència de l'email que li hem enviat:";
+"Buy TotalFinder Now" = "Comprar TotalFinder ara";
+"Thanks for registering!" = "Gràcies per registrar-se!";
+"This TotalFinder copy is licensed to:" = "Aquesta copia de TotalFinder està registrada a nom de:";
+"Close" = "Tancar";
+"Back" = "Tornar";
+"Invalid license code" = "Codi de llicència no vàlid";
+"Please go back and try again." = "Intenti-ho un altre cop si us plau";
+"To purchase a license for TotalFinder, please visit BinaryAge web store." = "Per comprar una llicència de TotalFinder, visiti la botiga en línia de BinaryAge.";
+"Thank you for using TotalFinder!" = "Gràcies per utilitzar TotalFinder!";
+"License Name" = "Nom de la llicència";
+"License Key" = "Clau de la llicència";
